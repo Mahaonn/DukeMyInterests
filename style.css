@@ -1,0 +1,32 @@
+body {
+  background-color: #000;
+  font-family: "Nunito", sans-serif;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  color: #ffc107;
+}
+
+#dukeUniversityImg {
+  border: 5px dashed #0000a0;
+}
+
+ul li {
+  color: green;
+}
+
+.styleli {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.years {
+  text-align: center;
+}
+
+.address-copyright {
+  color: #a18268;
+  font-size: 14px;
+}
